@@ -4,7 +4,7 @@ This project explores aviation accident data to uncover patterns in flight risk,
 
 ---
 
-## 📌 Objective
+##  Objective
 
 - Analyze historical aviation accident data
 - Identify high-risk countries, aircraft types, and periods
@@ -12,7 +12,7 @@ This project explores aviation accident data to uncover patterns in flight risk,
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - Python (Pandas, NumPy)
 - Power BI (Dashboard )
@@ -21,10 +21,10 @@ This project explores aviation accident data to uncover patterns in flight risk,
 
 ---
 
-## 🔗 Dashboard & Presentation
+##  Dashboard & Presentation
 
-- PowerBI Repository Link -
-- Presentation Link-
+- PowerBI Repository Link - https://app.powerbi.com/view?r=eyJrIjoiYzgyYWMyNGUtODFhZS00NTEyLWE0NWMtOGFiNDJkNmE4M2NjIiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9
+- PDF Link-
 - Source Dataset -
 - Output After Python -
 ---
